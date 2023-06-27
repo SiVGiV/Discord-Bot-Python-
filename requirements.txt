@@ -1,0 +1,11 @@
+python-dotenv
+tinydb
+discord.py
+discord-py-interactions
+IMDbPY
+colorama
+tpblite
+requests
+mal-api
+geopy
+tzwhere
